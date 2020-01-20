@@ -5,9 +5,9 @@ import glob
 #dimenzije ploče
 xOs = 9
 yOs = 6
-picsDir = 'camPics/*.jpg'
+picsDir = 'camPics/*.JPEG'
 paraDir = 'calibParam.npz'
-testPic = 'camPics/left_02.jpg'
+testPic = 'camPics/fishEyeCamNewSmall_06.JPEG'
 
 vecToMatrix = []
 
