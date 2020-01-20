@@ -7,7 +7,7 @@ xOs = 9
 yOs = 6
 picsDir = 'camPics/*.JPEG'
 paraDir = 'calibParam.npz'
-testPic = 'camPics/fishEyeCamNewSmall_06.JPEG'
+testPic = 'camPics/fishEyeCam_41.JPEG'
 
 vecToMatrix = []
 
