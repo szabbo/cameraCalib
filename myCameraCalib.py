@@ -3,11 +3,11 @@ import cv2
 import glob
 
 #dimenzije ploče
-xOs = 9
+xOs = 8
 yOs = 6
-picsDir = 'camPics/*.JPEG'
+picsDir = 'camPics/*.jpg'
 paraDir = 'calibParam.npz'
-testPic = 'camPics/fishEyeCam_41.JPEG'
+testPic = 'camPics/GOPR0052.jpg'
 
 vecToMatrix = []
 
